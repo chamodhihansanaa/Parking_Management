@@ -35,16 +35,18 @@
 
 ### Getting Started
 
-    Clone the repository:
+Clone the repository:
 
 git clone :
+      https://github.com/chamodhihansanaa/Parking_Management.git
 
 
-    Build the project:
+Build the project:
+    mvn clean install
 
-### mvn clean install
 
-    Start the services in the following order:
+
+ Start the services in the following order:
         Eureka Server
         Config Server
         API Gateway
